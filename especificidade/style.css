@@ -1,0 +1,19 @@
+body {
+  color: #000;
+}
+
+header {
+  background-color: #232323;
+  color: #aaa;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+section {
+  background-color: #000;
+  color: #46f7f7;
+}
+
+h1 {
+  color: #ff2;
+}
