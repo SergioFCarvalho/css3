@@ -17,8 +17,13 @@ Ela define formatos e padrões estéticos dentro de uma página da web em um arq
   <li>Posicionamento com display, margem, preenchimento, etc;</li>
   <li>Seletores e Especificidade;</li>
   <li>Tipografia(fontes, texto, peso, famílias, etc)</li>
-  <li>Principais unidades de medida (px, em, rem, deg, vw e vh, %, etc)</li>
+  <li>Principais unidades de medida (px, em, rem, deg, vw e vh, %, etc).</li>
 </ul>
+
+## 📌 Próximos passos: 
+- CSS Avançado: flexbox, grid, media queries, responsividade, etc;
+- Framework CSS: Bootstrap, Bulma, TailwindCSS, etc;
+- Linguagem de programação Javascript.
 
 ## 📌 Alguns Exemplos
 body {
