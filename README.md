@@ -13,7 +13,7 @@ Ela define formatos e padrões estéticos dentro de uma página da web em um arq
 ## 📌 O que foi visto ?
 <ul>
   <li>O que é e como usar CSS;</li>
-  <li>Cores, Background, Bordas, etc;</li>
+  <li>Cores, background, bordas, etc;</li>
   <li>Posicionamento com display, margem, preenchimento, etc;</li>
   <li>Seletores e Especificidade;</li>
   <li>Tipografia(fontes, texto, peso, famílias, etc)</li>
