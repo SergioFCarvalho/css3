@@ -10,6 +10,16 @@
 
 Ela define formatos e padrões estéticos dentro de uma página da web em um arquivo de códigos separado do HTML e/ou do JavaScript, chamados folha de estilo, facilitando a implementação destas modificações e trazendo mais facilidade ao trabalho do profissional desenvolvedor.</p>
 
+## 📌 O que foi visto ?
+<ul>
+  <li>O que é e como usar CSS;</li>
+  <li>Cores, Background, Bordas, etc;</li>
+  <li>Posicionamento com display, margem, preenchimento, etc;</li>
+  <li>Seletores e Especificidade;</li>
+  <li>Tipografia(fontes, texto, peso, famílias, etc)</li>
+  <li>Principais unidades de medida (px, em, rem, deg, vw e vh, %, etc)</li>
+</ul>
+
 ## 📌 Alguns Exemplos
 body {
   background-color: lightblue;
